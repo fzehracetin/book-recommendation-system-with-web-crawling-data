@@ -3,4 +3,4 @@ In this project we tried to build a Book Recommendation System which uses books,
 
 ![Most Rated Books in our System](Images/most_rated_books_isbn.png)
 
-(Images/most_rated_books_names.png)
+![](Images/most_rated_books_names.png)
